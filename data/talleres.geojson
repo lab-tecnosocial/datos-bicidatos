@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "name": "talleres",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Calle Belzu esquina Armando Méndez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1399845778942,
+          -17.3981091511325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Plazuela Quintanilla acera oeste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1522040516138,
+          -17.3822136549719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Frente al mercado de Colcapirhua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2439882382751,
+          -17.3907517247546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Heroínas casi Belzu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1436209827662,
+          -17.3899403292969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Juan de la Rosa a una cuadra al este del Hipermaxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1715354025364,
+          -17.3768218434927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Entrada a Tiquipaya, final Av. Ecológica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2138499319553,
+          -17.3410848824522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Ustariz casi Melchor Pérez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1818002164364,
+          -17.3961869576709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Simón López una cuadra antes de la Av. Beijing acera norte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1778969317675,
+          -17.3645798485963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Suecia al frente del Biblioavión"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1402132362127,
+          -17.4194915503207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Libertador Bolívar frente al Estadium Félix Capriles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1602912470698,
+          -17.3803149721606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Guillermo Urquidi esquina Benjamín Blanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1474612355232,
+          -17.3982083316717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Av. Circunvalación a la altura de El Bateón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1238638311625,
+          -17.3733977639841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Mayor Rocha casi Tumusla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1625426262617,
+          -17.3898817781447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MasterBikes",
+        "description": "Ecuador esquina Hamiraya.Atienden también a domicilio. Celular: 60792937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1613959819078,
+          -17.3907849995704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "description": "Parchador de llantas acera este de la rotonda de El Castillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1199693,
+          -17.3814165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fury Bike",
+        "description": "Mayor Rocha #337 entre 25 de Mayo y España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1567664,
+          -17.3888541
+        ]
+      }
+    }
+  ]
+}

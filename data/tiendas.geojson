@@ -1,0 +1,583 @@
+{
+  "type": "FeatureCollection",
+  "name": "tiendas",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364044071",
+        "addr:housenumber": "1167",
+        "addr:street": "Avenida Santa Cruz",
+        "contact:facebook": "https://www.facebook.com/La-Bicicleta-urbana-1046954878805632/",
+        "name": "La Bicicleta Urbana",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1571636,
+          -17.3787801
+        ]
+      },
+      "id": "node/2364044071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555201636",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1822216,
+          -17.3612487
+        ]
+      },
+      "id": "node/2555201636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599277255",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1523278,
+          -17.3981222
+        ]
+      },
+      "id": "node/2599277255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3277829711",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1777603,
+          -17.3645158
+        ]
+      },
+      "id": "node/3277829711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3556991633",
+        "addr:housenumber": "107",
+        "addr:street": "Avenida Tadeo Haenke",
+        "contact:email": "neilcaussin@gmail.com",
+        "contact:facebook": "https://www.facebook.com/pages/Bicicletas-de-monta%C3%B1a/560244744118484",
+        "contact:phone": "+591 79395665",
+        "name": "Bicicletas de Montaña",
+        "opening_hours": "24/7",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1949274,
+          -17.3814748
+        ]
+      },
+      "id": "node/3556991633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3775063001",
+        "addr:street": "Avenida Libertador Simón Bolívar",
+        "service:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.160256,
+          -17.3800999
+        ]
+      },
+      "id": "node/3775063001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962061941",
+        "addr:housenumber": "615",
+        "addr:street": "Calle España",
+        "contact:email": "huarid@gmail.com",
+        "contact:facebook": "https://www.facebook.com/Pachame-824532610976046/",
+        "contact:phone": "+591 4 4592640",
+        "name": "Pachame",
+        "note": "Compra, mantenimiento, restauración, alquiler, venta de bicicletas de ciudad, montañeras, vintage, monociclos, alforjas, camelbaks, repuestos y accesorios.",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-16:00",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.157839,
+          -17.3864939
+        ]
+      },
+      "id": "node/3962061941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4033324639",
+        "addr:street": "Avenida América",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1480058,
+          -17.3732874
+        ]
+      },
+      "id": "node/4033324639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092054728",
+        "addr:street": "Avenida Cochabamba",
+        "name": "Doña Juana",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2142952,
+          -17.3410907
+        ]
+      },
+      "id": "node/4092054728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4257977484",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1894886,
+          -17.3601114
+        ]
+      },
+      "id": "node/4257977484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266846729",
+        "addr:street": "Avenida J. M. Villavicencio",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1946402,
+          -17.3753303
+        ]
+      },
+      "id": "node/4266846729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279673068",
+        "addr:street": "Avenida J. M. Villavicencio",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1863795,
+          -17.3816765
+        ]
+      },
+      "id": "node/4279673068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407544503",
+        "contact:phone": "60099495",
+        "name": "Bici Motos FENIX Sud",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "bicycle",
+        "contact:email": "richbolivia777@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1578075,
+          -17.4570899
+        ]
+      },
+      "id": "node/4407544503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4414265841",
+        "service:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1813532,
+          -17.3625553
+        ]
+      },
+      "id": "node/4414265841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534512062",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.173558,
+          -17.3658461
+        ]
+      },
+      "id": "node/4534512062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630872722",
+        "addr:housenumber": "221",
+        "addr:street": "Avenida Juan Pablo II",
+        "name": "BiciBol",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "contact:email": "bicibol@hotmail.com",
+        "contact:phone": "+591 4 44795641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1992795,
+          -17.3856795
+        ]
+      },
+      "id": "node/4630872722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650379528",
+        "description": "caseta 60",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1535412,
+          -17.4067001
+        ]
+      },
+      "id": "node/4650379528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4662554562",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1528838,
+          -17.3916716
+        ]
+      },
+      "id": "node/4662554562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679294872",
+        "addr:housenumber": "279",
+        "addr:street": "Calle Villa Tunari",
+        "name": "Don Ricardo",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "contact:phone": "+591 77951250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1570501,
+          -17.4203419
+        ]
+      },
+      "id": "node/4679294872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704730793",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.171334,
+          -17.396599
+        ]
+      },
+      "id": "node/4704730793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960886853",
+        "name": "La Veloz",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1826424,
+          -17.3961561
+        ]
+      },
+      "id": "node/4960886853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5014298062",
+        "name": "Almais",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1562187,
+          -17.4067569
+        ]
+      },
+      "id": "node/5014298062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111368687",
+        "addr:street": "Avenida Martín de la Rocha",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1636999,
+          -17.3815643
+        ]
+      },
+      "id": "node/5111368687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143427945",
+        "addr:street": "Avenida Blanco Galindo",
+        "name": "Olivos",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2434295,
+          -17.3911752
+        ]
+      },
+      "id": "node/5143427945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143427949",
+        "description": "taller",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2258059,
+          -17.3917844
+        ]
+      },
+      "id": "node/5143427949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158133816",
+        "addr:street": "Calle Guatemala",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1487322,
+          -17.3992455
+        ]
+      },
+      "id": "node/5158133816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324989559",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1513044,
+          -17.4048328
+        ]
+      },
+      "id": "node/5324989559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368460677",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1535721,
+          -17.4072321
+        ]
+      },
+      "id": "node/5368460677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6773321442",
+        "name": "Master",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1614447,
+          -17.3911148
+        ]
+      },
+      "id": "node/6773321442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8269308705",
+        "name": "La Basicleta",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1400408,
+          -17.3744192
+        ]
+      },
+      "id": "node/8269308705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329152347",
+        "addr:street": "Calle Oblitas",
+        "name": "Ciclo Mundo",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1573941,
+          -17.3800682
+        ]
+      },
+      "id": "node/8329152347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8419951580",
+        "addr:housenumber": "1274",
+        "addr:street": "Calle Beni",
+        "contact:facebook": "https://www.facebook.com/marinbikes.bo/",
+        "name": "Marin Bikes",
+        "opening_hours": "Mo-Fr 09:30-13:00,15:30-20:00; Sa 09:300-15:30",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1567512,
+          -17.3771773
+        ]
+      },
+      "id": "node/8419951580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8419951581",
+        "addr:housenumber": "1916",
+        "addr:street": "Avenida Ex-Combatientes",
+        "contact:facebook": "https://www.facebook.com/bicicletas.wisi/",
+        "name": "Wisi Bicicletas y más",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1745698,
+          -17.3847698
+        ]
+      },
+      "id": "node/8419951581"
+    }
+  ]
+}
