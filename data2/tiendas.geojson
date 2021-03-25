@@ -1,0 +1,436 @@
+{
+  "type": "FeatureCollection",
+  "name": "tiendas",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Bicicleta Urbana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1571636,
+          -17.3787801
+        ]
+      },
+      "id": "node/2364044071"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1822216,
+          -17.3612487
+        ]
+      },
+      "id": "node/2555201636"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1523278,
+          -17.3981222
+        ]
+      },
+      "id": "node/2599277255"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1777603,
+          -17.3645158
+        ]
+      },
+      "id": "node/3277829711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicicletas de Montaña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1949274,
+          -17.3814748
+        ]
+      },
+      "id": "node/3556991633"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.160256,
+          -17.3800999
+        ]
+      },
+      "id": "node/3775063001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pachame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.157839,
+          -17.3864939
+        ]
+      },
+      "id": "node/3962061941"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1480058,
+          -17.3732874
+        ]
+      },
+      "id": "node/4033324639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doña Juana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2142952,
+          -17.3410907
+        ]
+      },
+      "id": "node/4092054728"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1894886,
+          -17.3601114
+        ]
+      },
+      "id": "node/4257977484"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1946402,
+          -17.3753303
+        ]
+      },
+      "id": "node/4266846729"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1863795,
+          -17.3816765
+        ]
+      },
+      "id": "node/4279673068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bici Motos FENIX Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1578075,
+          -17.4570899
+        ]
+      },
+      "id": "node/4407544503"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1813532,
+          -17.3625553
+        ]
+      },
+      "id": "node/4414265841"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.173558,
+          -17.3658461
+        ]
+      },
+      "id": "node/4534512062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BiciBol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1992795,
+          -17.3856795
+        ]
+      },
+      "id": "node/4630872722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "caseta 60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1535412,
+          -17.4067001
+        ]
+      },
+      "id": "node/4650379528"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1528838,
+          -17.3916716
+        ]
+      },
+      "id": "node/4662554562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Ricardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1570501,
+          -17.4203419
+        ]
+      },
+      "id": "node/4679294872"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.171334,
+          -17.396599
+        ]
+      },
+      "id": "node/4704730793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Veloz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1826424,
+          -17.3961561
+        ]
+      },
+      "id": "node/4960886853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1562187,
+          -17.4067569
+        ]
+      },
+      "id": "node/5014298062"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1636999,
+          -17.3815643
+        ]
+      },
+      "id": "node/5111368687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2434295,
+          -17.3911752
+        ]
+      },
+      "id": "node/5143427945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "taller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2258059,
+          -17.3917844
+        ]
+      },
+      "id": "node/5143427949"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1487322,
+          -17.3992455
+        ]
+      },
+      "id": "node/5158133816"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1513044,
+          -17.4048328
+        ]
+      },
+      "id": "node/5324989559"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1535721,
+          -17.4072321
+        ]
+      },
+      "id": "node/5368460677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Master"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1614447,
+          -17.3911148
+        ]
+      },
+      "id": "node/6773321442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Basicleta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1400408,
+          -17.3744192
+        ]
+      },
+      "id": "node/8269308705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciclo Mundo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1573941,
+          -17.3800682
+        ]
+      },
+      "id": "node/8329152347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marin Bikes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1567512,
+          -17.3771773
+        ]
+      },
+      "id": "node/8419951580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisi Bicicletas y más"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1745698,
+          -17.3847698
+        ]
+      },
+      "id": "node/8419951581"
+    }
+  ]
+}
