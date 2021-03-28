@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Calle Belzu esquina Armando Méndez"
       },
       "geometry": {
@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Plazuela Quintanilla acera oeste"
       },
       "geometry": {
@@ -33,7 +33,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Frente al mercado de Colcapirhua"
       },
       "geometry": {
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Heroínas casi Belzu"
       },
       "geometry": {
@@ -61,7 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Juan de la Rosa a una cuadra al este del Hipermaxi"
       },
       "geometry": {
@@ -75,7 +75,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Entrada a Tiquipaya, final Av. Ecológica"
       },
       "geometry": {
@@ -89,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Ustariz casi Melchor Pérez"
       },
       "geometry": {
@@ -103,7 +103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Simón López una cuadra antes de la Av. Beijing acera norte"
       },
       "geometry": {
@@ -117,7 +117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Suecia al frente del Biblioavión"
       },
       "geometry": {
@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Libertador Bolívar frente al Estadium Félix Capriles"
       },
       "geometry": {
@@ -145,7 +145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Guillermo Urquidi esquina Benjamín Blanco"
       },
       "geometry": {
@@ -159,7 +159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Av. Circunvalación a la altura de El Bateón"
       },
       "geometry": {
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Mayor Rocha casi Tumusla"
       },
       "geometry": {
@@ -187,7 +187,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "MasterBikes",
+        "name": "MasterBikes",
         "description": "Ecuador esquina Hamiraya.Atienden también a domicilio. Celular: 60792937"
       },
       "geometry": {
@@ -201,7 +201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "",
+        "name": "",
         "description": "Parchador de llantas acera este de la rotonda de El Castillo"
       },
       "geometry": {
@@ -215,7 +215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fury Bike",
+        "name": "Fury Bike",
         "description": "Mayor Rocha #337 entre 25 de Mayo y España"
       },
       "geometry": {
